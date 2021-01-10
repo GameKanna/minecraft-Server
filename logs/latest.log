@@ -1,71 +1,157 @@
-[00:02:23] [User Authenticator #4/INFO]: UUID of player AiKotoba is f1898d2b-e15f-34ed-b9f5-e5786f8638fb
-[00:02:23] [Server thread/INFO]: AiKotoba[/25.30.16.68:65272] logged in with entity id 19717 at ([world]6256.321158097638, 93.0625, -296.31990345910305)
-[00:07:45] [Server thread/INFO]: MeM lost connection: Disconnected
-[00:07:45] [Server thread/INFO]: MeM left the game
-[00:16:58] [Server thread/INFO]: PierrotKanna was shot by Skeleton
-[00:18:04] [Server thread/INFO]: PierrotKanna fell from a high place
-[00:23:20] [Server thread/INFO]: PierrotKanna lost connection: Disconnected
-[00:23:20] [Server thread/INFO]: PierrotKanna left the game
-[00:24:09] [User Authenticator #5/INFO]: UUID of player PierrotKanna is 7afeaaab-0852-3716-8897-5c7f3f4dece5
-[00:24:09] [Server thread/INFO]: PierrotKanna[/25.114.104.38:55081] logged in with entity id 25897 at ([world]6254.856436130877, 68.0, -300.9535676093498)
-[00:51:01] [Server thread/INFO]: AiKotoba has made the advancement [Sticky Situation]
-[00:51:12] [Server thread/INFO]: PierrotKanna has made the advancement [Sticky Situation]
-[00:58:43] [Server thread/WARN]: PierrotKanna moved wrongly!
-[01:03:20] [Server thread/WARN]: PierrotKanna moved wrongly!
-[01:03:20] [Server thread/WARN]: PierrotKanna moved wrongly!
-[01:03:22] [Server thread/WARN]: PierrotKanna moved wrongly!
-[01:06:36] [Server thread/INFO]: PierrotKanna lost connection: Disconnected
-[01:06:36] [Server thread/INFO]: PierrotKanna left the game
-[01:15:13] [User Authenticator #6/INFO]: UUID of player PierrotKanna is 7afeaaab-0852-3716-8897-5c7f3f4dece5
-[01:15:13] [Server thread/INFO]: PierrotKanna[/25.114.104.38:55373] logged in with entity id 38155 at ([world]6271.073055681989, 60.0, -274.6495577416081)
-[01:22:56] [Server thread/INFO]: PierrotKanna lost connection: Disconnected
-[01:22:56] [Server thread/INFO]: PierrotKanna left the game
-[01:25:23] [User Authenticator #7/INFO]: UUID of player PierrotKanna is 7afeaaab-0852-3716-8897-5c7f3f4dece5
-[01:25:23] [Server thread/INFO]: PierrotKanna[/25.114.104.38:55388] logged in with entity id 40468 at ([world]6274.699999988079, 60.0, -274.79890369663934)
-[01:35:41] [Server thread/INFO]: PierrotKanna lost connection: Disconnected
-[01:35:41] [Server thread/INFO]: PierrotKanna left the game
-[01:35:53] [Server thread/INFO]: AiKotoba lost connection: Disconnected
-[01:35:53] [Server thread/INFO]: AiKotoba left the game
-[01:45:41] [Server thread/INFO]: joker0078 has made the advancement [Hot Stuff]
-[01:48:19] [User Authenticator #8/INFO]: UUID of player PierrotKanna is 7afeaaab-0852-3716-8897-5c7f3f4dece5
-[01:48:19] [Server thread/INFO]: PierrotKanna[/25.114.104.38:55407] logged in with entity id 44795 at ([world]6274.597031677849, 59.0, -274.7998321987244)
-[01:55:36] [Server thread/INFO]: joker0078 has made the advancement [Cover Me With Diamonds]
-[02:07:00] [Server thread/INFO]: PierrotKanna lost connection: Disconnected
-[02:07:00] [Server thread/INFO]: PierrotKanna left the game
-[02:13:02] [User Authenticator #9/INFO]: UUID of player AiKotoba is f1898d2b-e15f-34ed-b9f5-e5786f8638fb
-[02:13:02] [Server thread/INFO]: AiKotoba[/25.30.16.68:49729] logged in with entity id 49739 at ([world]6267.56799240045, 64.0, -299.65868702566127)
-[02:13:55] [Server thread/INFO]: AiKotoba lost connection: Disconnected
-[02:13:55] [Server thread/INFO]: AiKotoba left the game
-[02:14:16] [User Authenticator #10/INFO]: UUID of player AiKotoba is f1898d2b-e15f-34ed-b9f5-e5786f8638fb
-[02:14:16] [Server thread/INFO]: AiKotoba[/25.30.16.68:49740] logged in with entity id 50062 at ([world]6273.766875553283, 59.0, -272.30000001192093)
-[02:15:28] [User Authenticator #11/INFO]: UUID of player PierrotKanna is 7afeaaab-0852-3716-8897-5c7f3f4dece5
-[02:15:29] [Server thread/INFO]: PierrotKanna[/25.114.104.38:55876] logged in with entity id 50399 at ([world]6216.300000011921, 73.0, -342.91070178398377)
-[02:19:45] [Server thread/INFO]: PierrotKanna hit the ground too hard
-[02:21:56] [Server thread/INFO]: PierrotKanna lost connection: Disconnected
-[02:21:56] [Server thread/INFO]: PierrotKanna left the game
-[02:30:36] [Server thread/INFO]: AiKotoba lost connection: Disconnected
-[02:30:36] [Server thread/INFO]: AiKotoba left the game
-[02:30:44] [User Authenticator #12/INFO]: UUID of player AiKotoba is f1898d2b-e15f-34ed-b9f5-e5786f8638fb
-[02:30:44] [Server thread/INFO]: AiKotoba[/25.30.16.68:49788] logged in with entity id 53757 at ([world]6257.5, 93.0, -296.5)
-[02:33:57] [Server thread/INFO]: AiKotoba lost connection: Disconnected
-[02:33:57] [Server thread/INFO]: AiKotoba left the game
-[02:34:17] [User Authenticator #13/INFO]: UUID of player AiKotoba is f1898d2b-e15f-34ed-b9f5-e5786f8638fb
-[02:34:17] [Server thread/INFO]: AiKotoba[/25.30.16.68:49798] logged in with entity id 54336 at ([world]6291.618450739067, 59.5625, -298.80829261321134)
-[02:36:16] [Server thread/INFO]: AiKotoba has made the advancement [Cover Me With Diamonds]
-[02:45:57] [Server thread/INFO]: AiKotoba lost connection: Disconnected
-[02:45:57] [Server thread/INFO]: AiKotoba left the game
-[03:17:34] [Server thread/INFO]: joker0078 lost connection: Disconnected
-[03:17:34] [Server thread/INFO]: joker0078 left the game
-[03:19:44] [Server thread/INFO]: Stopping the server
-[03:19:44] [Server thread/INFO]: Stopping server
-[03:19:44] [Server thread/INFO]: Saving players
-[03:19:44] [Server thread/INFO]: Saving worlds
-[03:19:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:19:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:19:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:19:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:19:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:36:23] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:36:25] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[14:36:26] [Worker-Main-14/INFO]: Loaded 7 recipes
+[14:36:28] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[14:36:28] [Server thread/INFO]: Loading properties
+[14:36:29] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-37d799b-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[14:36:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:36:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:36:29] [Server thread/INFO]: Debug logging is disabled
+[14:36:29] [Server thread/INFO]: Default game type: SURVIVAL
+[14:36:29] [Server thread/INFO]: Generating keypair
+[14:36:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:36:29] [Server thread/INFO]: Using default channel type
+[14:36:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:36:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:36:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:36:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:36:33] [Server thread/INFO]: Preparing level "world"
+[14:36:33] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:36:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:36:33] [Server thread/INFO]: Mob Spawn Range: 6
+[14:36:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:36:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:36:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:36:33] [Server thread/INFO]: Max TNT Explosions: 100
+[14:36:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:36:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:36:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:36:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:36:33] [Server thread/INFO]: View Distance: 10
+[14:36:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:36:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:36:33] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:36:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:36:33] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:36:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:36:33] [Server thread/INFO]: Mob Spawn Range: 6
+[14:36:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:36:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:36:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:36:33] [Server thread/INFO]: Max TNT Explosions: 100
+[14:36:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:36:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:36:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:36:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:36:33] [Server thread/INFO]: View Distance: 10
+[14:36:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:36:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:36:33] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:36:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:36:33] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:36:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:36:33] [Server thread/INFO]: Mob Spawn Range: 6
+[14:36:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:36:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:36:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:36:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:36:33] [Server thread/INFO]: Max TNT Explosions: 100
+[14:36:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:36:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:36:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:36:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:36:33] [Server thread/INFO]: View Distance: 10
+[14:36:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:36:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:36:33] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:36:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:36:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:36:35] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:35] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:35] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:35] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:35] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:36] [Server thread/INFO]: Preparing spawn area: 3%
+[14:36:36] [Server thread/INFO]: Preparing spawn area: 3%
+[14:36:37] [Server thread/INFO]: Time elapsed: 3788 ms
+[14:36:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:36:39] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:39] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:39] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:39] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:39] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-9/INFO]: Preparing spawn area: 93%
+[14:36:40] [Worker-Main-9/INFO]: Preparing spawn area: 93%
+[14:36:41] [Worker-Main-16/INFO]: Preparing spawn area: 93%
+[14:36:41] [Worker-Main-10/INFO]: Preparing spawn area: 93%
+[14:36:42] [Worker-Main-10/INFO]: Preparing spawn area: 96%
+[14:36:42] [Worker-Main-8/INFO]: Preparing spawn area: 97%
+[14:36:42] [Server thread/INFO]: Time elapsed: 5279 ms
+[14:36:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:36:43] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:43] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:43] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[14:36:44] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[14:36:44] [Server thread/INFO]: Time elapsed: 1843 ms
+[14:36:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:36:44] [Server thread/INFO]: Done (11.510s)! For help, type "help"
+[14:36:54] [Server thread/INFO]: Stopping the server
+[14:36:54] [Server thread/INFO]: Stopping server
+[14:36:54] [Server thread/INFO]: Saving players
+[14:36:54] [Server thread/INFO]: Saving worlds
+[14:36:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:36:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:36:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:36:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:36:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:36:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:36:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
