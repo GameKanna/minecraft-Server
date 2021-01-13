@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_the_recipe": "2021-01-11 20:59:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-01-07 22:39:39 +0700"
@@ -532,7 +538,9 @@
       "minecraft:skeleton": "2021-01-07 23:42:18 +0700",
       "minecraft:spider": "2021-01-08 20:42:07 +0700",
       "minecraft:creeper": "2021-01-08 23:32:10 +0700",
+      "minecraft:slime": "2021-01-11 21:54:03 +0700",
       "minecraft:phantom": "2021-01-08 21:22:48 +0700",
+      "minecraft:witch": "2021-01-11 22:18:05 +0700",
       "minecraft:husk": "2021-01-08 00:23:41 +0700",
       "minecraft:cave_spider": "2021-01-09 18:57:03 +0700",
       "minecraft:enderman": "2021-01-08 00:03:19 +0700",
@@ -801,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2021-01-11 22:19:01 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2021-01-10 20:38:37 +0700"
@@ -948,6 +962,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2021-01-10 17:05:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-01-11 21:54:08 +0700"
     },
     "done": true
   },
@@ -1433,7 +1453,8 @@
       "cooked_beef": "2021-01-09 19:25:14 +0700",
       "bread": "2021-01-07 23:29:05 +0700",
       "golden_apple": "2021-01-08 00:22:23 +0700",
-      "rotten_flesh": "2021-01-07 23:13:16 +0700"
+      "rotten_flesh": "2021-01-07 23:13:16 +0700",
+      "carrot": "2021-01-11 20:51:52 +0700"
     },
     "done": false
   },
@@ -1821,6 +1842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2021-01-11 22:19:01 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-01-09 21:49:58 +0700"
@@ -1872,6 +1899,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2021-01-07 22:39:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-01-11 21:54:08 +0700"
     },
     "done": true
   },
@@ -2175,6 +2208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-01-11 21:54:08 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-01-08 00:04:02 +0700"
@@ -2253,6 +2292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-01-11 20:21:06 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2021-01-08 00:04:02 +0700"
@@ -2310,6 +2355,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-01-07 22:37:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-01-11 23:27:16 +0700"
     },
     "done": true
   },
