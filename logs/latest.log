@@ -1,13 +1,17 @@
-[01:12:52] [Server thread/INFO]: Stopping the server
-[01:12:52] [Server thread/INFO]: Stopping server
-[01:12:52] [Server thread/INFO]: Saving players
-[01:12:52] [Server thread/INFO]: Saving worlds
-[01:12:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:12:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:12:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:12:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:12:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:12:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:12:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:12:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:12:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:21:16] [Server thread/INFO]: joker0078 was slain by Iron Golem
+[01:22:12] [Server thread/INFO]: joker0078 was slain by Iron Golem
+[01:42:34] [Server thread/INFO]: joker0078 lost connection: Disconnected
+[01:42:34] [Server thread/INFO]: joker0078 left the game
+[01:43:01] [Server thread/INFO]: Stopping the server
+[01:43:01] [Server thread/INFO]: Stopping server
+[01:43:01] [Server thread/INFO]: Saving players
+[01:43:01] [Server thread/INFO]: Saving worlds
+[01:43:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
