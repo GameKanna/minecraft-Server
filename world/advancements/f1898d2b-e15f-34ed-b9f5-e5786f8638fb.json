@@ -1626,6 +1626,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "honey_bottle": "2021-01-01 19:48:21 +0700",
+      "cooked_mutton": "2021-01-16 18:51:39 +0700",
       "sweet_berries": "2021-01-03 22:43:08 +0700",
       "baked_potato": "2021-01-10 01:10:52 +0700",
       "tropical_fish": "2021-01-02 22:11:32 +0700",
@@ -2768,6 +2769,7 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/tabby.png": "2021-01-05 21:10:14 +0700",
+      "textures/entity/cat/white.png": "2021-01-16 18:55:10 +0700",
       "textures/entity/cat/black.png": "2021-01-11 23:15:39 +0700",
       "textures/entity/cat/red.png": "2021-01-10 15:33:06 +0700",
       "textures/entity/cat/calico.png": "2021-01-10 15:45:34 +0700"
