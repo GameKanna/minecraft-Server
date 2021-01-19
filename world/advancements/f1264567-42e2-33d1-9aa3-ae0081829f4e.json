@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2021-01-16 01:30:52 +0700"
@@ -248,6 +254,12 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2021-01-10 20:18:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2021-01-19 22:13:55 +0700"
     },
     "done": true
   },
@@ -581,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2021-01-15 22:21:49 +0700"
@@ -642,6 +660,7 @@
       "minecraft:skeleton": "2021-01-07 23:42:18 +0700",
       "minecraft:ghast": "2021-01-15 18:55:29 +0700",
       "minecraft:hoglin": "2021-01-16 23:47:23 +0700",
+      "minecraft:vindicator": "2021-01-19 22:29:05 +0700",
       "minecraft:magma_cube": "2021-01-16 00:02:58 +0700",
       "minecraft:spider": "2021-01-08 20:42:07 +0700",
       "minecraft:creeper": "2021-01-08 23:32:10 +0700",
@@ -655,6 +674,7 @@
       "minecraft:piglin": "2021-01-15 18:54:09 +0700",
       "minecraft:enderman": "2021-01-08 00:03:19 +0700",
       "minecraft:silverfish": "2021-01-09 21:48:22 +0700",
+      "minecraft:stray": "2021-01-19 20:13:21 +0700",
       "minecraft:zombie": "2021-01-07 22:46:31 +0700",
       "minecraft:drowned": "2021-01-08 23:00:54 +0700",
       "minecraft:zombie_villager": "2021-01-08 00:39:34 +0700"
@@ -724,6 +744,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-01-09 21:38:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
     },
     "done": true
   },
@@ -844,6 +870,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-01-08 00:04:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
     },
     "done": true
   },
@@ -1075,6 +1107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2021-01-15 22:21:49 +0700"
@@ -1260,6 +1298,7 @@
       "minecraft:wooded_hills": "2021-01-10 21:26:54 +0700",
       "minecraft:stone_shore": "2021-01-09 21:29:19 +0700",
       "minecraft:swamp": "2021-01-10 21:16:57 +0700",
+      "minecraft:snowy_taiga_hills": "2021-01-19 20:10:49 +0700",
       "minecraft:savanna": "2021-01-08 23:41:39 +0700",
       "minecraft:plains": "2021-01-09 21:48:16 +0700"
     },
@@ -1719,6 +1758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-09 20:18:07 +0700"
@@ -1734,6 +1779,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2021-01-07 23:54:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
     },
     "done": true
   },
@@ -2066,6 +2117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2021-01-08 23:14:25 +0700"
@@ -2348,6 +2405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-13 21:14:26 +0700"
@@ -2411,6 +2474,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2021-01-09 21:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
     },
     "done": true
   },
@@ -2726,6 +2795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-13 21:14:26 +0700"
@@ -2816,6 +2891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-01-19 20:32:19 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-01-09 18:11:04 +0700"
@@ -2852,9 +2933,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2021-01-17 00:47:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2021-01-19 21:58:55 +0700"
     },
     "done": true
   },
@@ -3110,6 +3203,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-01-19 20:32:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2021-01-09 18:11:04 +0700"
@@ -3128,6 +3233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2021-01-07 22:39:39 +0700"
@@ -3137,6 +3248,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-01-07 23:29:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-19 20:07:58 +0700"
     },
     "done": true
   },
